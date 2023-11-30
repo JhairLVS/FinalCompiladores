@@ -1,0 +1,5 @@
+IF (3 > 2) {
+    PRINT 1
+} ELSE {
+    PRINT 0
+}
